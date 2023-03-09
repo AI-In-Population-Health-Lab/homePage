@@ -1,14 +1,14 @@
-
-## Research Lab Website Design Template
-
-This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research. 
-
-## (Al in Population Health lab)[https://ai-in-population-health-lab.github.io/AI-In-Population-Health-Lab.io/]. 
+## [Al in Population Health lab](https://ai-in-population-health-lab.github.io/AI-In-Population-Health-Lab.io/). 
 This is the website: https://ai-in-population-health-lab.github.io/AI-In-Population-Health-Lab.io/  
 
 
 
 Reference:  
+
+
+### Research Lab Website Design Template
+
+This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research.   
 
 You can find a live view of the template using the link below:
 
