@@ -3,7 +3,12 @@
 
 This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research. 
 
-I built this for my brother years ago, and you can find his current site here: [University of Illinois Energy Transport Research Lab](http://etrl.mechanical.illinois.edu/)
+## (Al in Population Health lab)[https://ai-in-population-health-lab.github.io/AI-In-Population-Health-Lab.io/]. 
+This is the website: https://ai-in-population-health-lab.github.io/AI-In-Population-Health-Lab.io/  
+
+
+
+Reference:  
 
 You can find a live view of the template using the link below:
 
