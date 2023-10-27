@@ -1,4 +1,4 @@
-## [Al in Population Health lab](https://ai-in-population-health-lab.github.io/AI-In-Population-Health-Lab.io/). 
+## [Al in Population Health lab](https://ai-in-population-health-lab.github.io/homePage.io/). 
 This is the website: https://ai-in-population-health-lab.github.io/AI-In-Population-Health-Lab.io/  
 
 
